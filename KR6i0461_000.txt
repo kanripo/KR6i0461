@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說法集名數經
+#+DATE: 2015-08-30 20:20:09.790057
+#+PROPERTY: JUAN 0
